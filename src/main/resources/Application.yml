@@ -1,0 +1,13 @@
+resilience4j.circuitbreaker:
+    config:
+        default:
+            registerHealthIndicator: true
+            slidingWindowSize: 10
+            permittedNumberOfCallsInHalfOpenState: 3
+            minimumNumberOfCalls: 20
+            waitDurationInOpenState: 30s
+            failureRateThreshold: 50
+            eventConsumerBufferSize: 10
+    instances:
+        evoluumService:
+            baseConfig: default

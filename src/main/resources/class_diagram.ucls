@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.example.evoluum1.models.City" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/models/City.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="277" x="2480" y="1541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.example.evoluum1.models.Country" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/models/Country.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="299" x="2141" y="1541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.example.evoluum1.models.Microrregiao" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/models/Microrregiao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="232" x="2120" y="1867"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.example.evoluum1.models.ReportRecord" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/models/ReportRecord.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="520" width="297" x="2101" y="981"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.example.evoluum1.models.UF" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/models/UF.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="322" width="190" x="2647" y="2447"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.example.evoluum1.models.RegiaoIntermediaria" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/models/RegiaoIntermediaria.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="250" width="221" x="2536" y="2157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.example.evoluum1.models.Regiao" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/models/Regiao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="186" x="2231" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.example.evoluum1.models.Mesorregiao" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/models/Mesorregiao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="186" x="2120" y="2157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.example.evoluum1.models.RegiaoImediata" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/models/RegiaoImediata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="306" x="2451" y="1867"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.example.evoluum1.models.Report" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/models/Report.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="221" x="2217" y="799"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.example.evoluum1.services.ExternalCityService" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/services/ExternalCityService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="268" width="633" x="2457" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="com.example.evoluum1.services.CityService" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/services/CityService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="316" x="2050" y="653"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="com.example.evoluum1.configurers.Resilience4jConfigurer" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/configurers/Resilience4jConfigurer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="106" width="379" x="1812" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="14" language="java" name="com.example.evoluum1.converters" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/converters" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="271" x="1051" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="15" language="java" name="com.example.evoluum1.configurers.SwaggerConfigurer" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/configurers/SwaggerConfigurer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="142" width="437" x="42" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.example.evoluum1.controllers.SearchController" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/controllers/SearchController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="106" width="288" x="1680" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.example.evoluum1.controllers.ReportController" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/controllers/ReportController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="142" width="367" x="2008" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.example.evoluum1.interceptors.LoggerInterceptor" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/interceptors/LoggerInterceptor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="124" width="432" x="3151" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.example.evoluum1.configurers.AppConfigurer" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/configurers/AppConfigurer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="124" width="410" x="1362" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.example.evoluum1.configurers.InterceptorConfigurer" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/configurers/InterceptorConfigurer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="124" width="430" x="3151" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="21" language="java" name="com.example.evoluum1.controllers" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/controllers" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="270" x="2457" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="22" language="java" name="com.example.evoluum1.interceptors" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/interceptors" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="280" x="731" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="23" language="java" name="com.example.evoluum1.converters.CsvConverter" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/converters/CsvConverter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="196" width="404" x="3623" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.example.evoluum1.configurers.MessageConvertersConfigurer" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/configurers/MessageConvertersConfigurer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="178" width="501" x="3621" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.example.evoluum1.Evoluum1Application" project="evoluum-1" 
+    file="/evoluum-1/src/main/java/com/example/evoluum1/Evoluum1Application.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="172" x="519" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="26">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="27" name="mesorregiao">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="28" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="29">    
+    <bendpoint x="2110" y="1541"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <association id="30">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="31" name="uf">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="32" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="33">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <dependency id="34">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="35">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="36" name="microrregiao">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="37" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="38">    
+    <bendpoint x="2085" y="799"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="39">    
+    <bendpoint x="2787" y="1541"/>    
+    <bendpoint x="2787" y="1867"/>    
+    <bendpoint x="2787" y="2157"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="40">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="41" name="csvconverter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="42" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="43">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="44">    
+    <bendpoint x="2489" y="653"/>    
+    <bendpoint x="2489" y="799"/>    
+    <bendpoint x="2489" y="981"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="45">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="46">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="47" name="externalCityService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="48" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="50" name="regiaoImediata">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="51" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="53" name="loggerInterceptor">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="54" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="55">    
+    <bendpoint x="2405" y="345"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="56">    
+    <bendpoint x="3120" y="345"/>    
+    <bendpoint x="3120" y="653"/>    
+    <bendpoint x="3078" y="799"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="57">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="58" name="uf">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="59" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="60">    
+    <bendpoint x="2468" y="653"/>    
+    <bendpoint x="2468" y="799"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="61">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="62" name="regiaoImediata">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="63" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="64">    
+    <bendpoint x="3099" y="653"/>    
+    <bendpoint x="3099" y="799"/>    
+    <bendpoint x="3099" y="981"/>    
+    <bendpoint x="3099" y="1541"/>    
+    <bendpoint x="3099" y="1867"/>    
+    <bendpoint x="3099" y="2157"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="65">    
+    <bendpoint x="2403" y="2157"/>    
+    <bendpoint x="2403" y="1867"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="66" name="regiao">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="67" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="68">    
+    <bendpoint x="2426" y="345"/>    
+    <bendpoint x="2426" y="653"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="69">    
+    <bendpoint x="2089" y="1541"/>    
+    <bendpoint x="2089" y="1867"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="70">    
+    <bendpoint x="2396" y="653"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="71">    
+    <bendpoint x="2019" y="653"/>    
+    <bendpoint x="2019" y="799"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="72">    
+    <bendpoint x="2447" y="653"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="73">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="74" name="data">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="75" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="76">    
+    <bendpoint x="1899" y="653"/>    
+    <bendpoint x="1899" y="799"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="77">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="78" name="microrregiao">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="79" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="80">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="81">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="82" name="regiaoIntermediaria">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="83" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="84">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="85" name="externalCityService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="86" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
